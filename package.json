@@ -1,5 +1,5 @@
 {
-  "name": "@johnbraum/capacitor-qrscanner",
+  "name": "@fabricadeaplicativos/capacitor-qrscanner",
   "version": "1.1.13",
   "description": "QR Scanner for Capacitor",
   "main": "dist/esm/index.js",

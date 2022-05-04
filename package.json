@@ -12,9 +12,6 @@
   },
   "author": "Marcel Golob <marcel@golbros.de>",
   "license": "MIT",
-  "dependencies": {
-    "@capacitor/core": "latest"
-  },
   "devDependencies": {
     "@capacitor/android": "^3.0.0",
     "@capacitor/core": "^3.0.0",

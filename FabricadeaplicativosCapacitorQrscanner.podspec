@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'JohnbraumCapacitorQrscanner'
+    s.name = 'FabricadeaplicativosCapacitorQrscanner'
     s.version = '0.0.1'
     s.summary = 'QR Scanner for Capacitor'
     s.license = 'MIT'

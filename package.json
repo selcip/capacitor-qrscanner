@@ -26,7 +26,7 @@
     "dist/",
     "ios/",
     "android/",
-    "JohnbraumCapacitorQrscanner.podspec"
+    "FabricadeaplicativosCapacitorQrscanner.podspec"
   ],
   "keywords": [
     "capacitor",
